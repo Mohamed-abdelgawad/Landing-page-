@@ -1,2 +1,2 @@
 # Landing-page-
-Landing page using html and css 
+Landing page for adidas using html and css 
